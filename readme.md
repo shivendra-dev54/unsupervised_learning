@@ -7,3 +7,15 @@
 
     1. K-means clustering
         - Customer segmentation
+
+    2. Hierarchical Clustering
+        - market basket analysis
+
+    3. Principal Component Analysis (PCA)
+        - gene expression (reducing features)
+
+    4. t-SNE & UMAP
+        - anomaly detection on network traffic
+
+    5. DBSCAN 
+        - crime hotspot analysis
